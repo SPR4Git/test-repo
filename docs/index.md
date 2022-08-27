@@ -168,19 +168,19 @@ To use this search, you can use the images in:
 
 If you select the [Electric Screwdriver](electric_screwdriver.jpg) should be appears 3 suggested products similar to:
 
-![Rechargeable Screwdriver Suggested Products](rechargeable_Screwdriver_Suggested_Products.PNG)
+![Rechargeable Screwdriver Suggested Products](rechargeable_Screwdriver_Suggested_Products.png)
 
 ### Multi-tool plier sample
 
 If you select the [Multi-Tool Plier](multi-tool_plier.jpg) should be appears 3 suggested products similar to:
 
-![Multi-Tool Plier Suggested Products](multi-tool_plier_Suggested_Products.PNG)
+![Multi-Tool Plier Suggested Products](multi-tool_plier_Suggested_Products.png)
 
 ### Hard hat sample
 
 If you select the [Hard Hat](hard_hat.jpg) should be redirect to product detail, beacuse only have a 1 suggested product:
 
-![Hard Hat Suggested Product Detail](hard_Hat_Suggested_Product_Detail.PNG)
+![Hard Hat Suggested Product Detail](hard_Hat_Suggested_Product_Detail.png)
 
 # Contributing
 
