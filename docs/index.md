@@ -1,6 +1,6 @@
-# Tailwind Traders Website
+# Tailwind Traders Webpage
 
-![Tailwind Traders Webpage](Website.png)
+![Tailwind Traders Website](Website.png)
 now with branch protection on main!
 
 [![Build state](https://dev.azure.com/TailwindTraders/Website/_apis/build/status/Website-CI)](https://dev.azure.com/TailwindTraders/Website/_build?definitionId=22)
@@ -152,7 +152,7 @@ Steps to search:
 
 1. In home of the website, click in the "Start smart shopping" button.
 
-![Start Smart Shopping Button](Start_Smart_Shopping_Button.PNG)
+![Start Smart Shopping Button](Start_Smart_Shopping_Button.png)
 
 2. Select a photo to upload and send it.
    - If website has more than 1 suggested products
